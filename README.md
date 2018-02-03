@@ -20,7 +20,7 @@ Esta é uma versão inicial e pretendemos dar continuidade no projeto e lançar 
 
 *Os terrenos do jogo sao representados pelos simbolos abaixo: *
 - Y - Florestas 
-- - - Planicies 
+- - Planicies 
 - ~ - Rios ou Lagos 
 - ^ - Montanhas 
 
@@ -31,7 +31,7 @@ Esta é uma versão inicial e pretendemos dar continuidade no projeto e lançar 
 - K - Crocodilos 
 
 *Alem de outros simbolos como:*
-- # - Cidade Natal
+- .# - Cidade Natal
 - C - Personagens nao-jogaveis 
 - $ - Tesouros 
 
