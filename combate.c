@@ -17,7 +17,7 @@ void controledevida(Jogador *jogador, char *opcoes_menu, FILE *pont_rank){
 	}
 }
 
-//continuar implementaÃ§Ã£o
+//continuar implementação
 void combate(Jogador *jogador, char *opcoes_menu, Mochilas *mochila, FILE *pont_rank){
 	char opCombate;
 	if(jogador->terrenoatual == 'W' || jogador->terrenoatual == 'B' || jogador->terrenoatual == 'A' || jogador->terrenoatual == 'K'){
@@ -50,7 +50,7 @@ void combate(Jogador *jogador, char *opcoes_menu, Mochilas *mochila, FILE *pont_
 					}
 					else if(opcoes_ataq == 2){
 						jogador->vidaatual = jogador->vidaatual - (lobo.dano/2);
-						printf("O lobo o atacou com suas garras afiadas, mas vocÃª se defendeu com seu escudo e recebeu apenas %i de Dano.\n", lobo.dano/2);
+						printf("O lobo o atacou com suas garras afiadas, mas você se defendeu com seu escudo e recebeu apenas %i de Dano.\n", lobo.dano/2);
 						controledevida(jogador, opcoes_menu, pont_rank);
 					}
 					else if(opcoes_ataq == 3){
@@ -310,7 +310,7 @@ void combate(Jogador *jogador, char *opcoes_menu, Mochilas *mochila, FILE *pont_
 						printf("\nA sua pericia com a espada foi aprimorada e seu dano com a espada virou %i.", jogador->danoarma);
 					}
 					else if(recompensa == 3){
-						printf("VocÃª recebeu uma pocao de veneno.\n");
+						printf("Você recebeu uma pocao de veneno.\n");
 						mochila->pocaoveneno +=1;
 					}
 				}
@@ -480,3 +480,4 @@ void combate(Jogador *jogador, char *opcoes_menu, Mochilas *mochila, FILE *pont_
 		jogador->terrenoatual = '.';
 	}
 }
+
