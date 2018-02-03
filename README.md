@@ -13,11 +13,11 @@ O código a seguir foi desenvolvido com propósitos educacionais e sua utilizaç
 
 # Instruções:
 
-*Aqui constam todas as instrucoes do jogo!*
+*Aqui constam todas as instrucoes do jogo!*/n
 
-*Para se mover no jogo, use as teclas abaixo:*
-W - Vai para o Norte 
-A - Vai para o Oeste 
+*Para se mover no jogo, use as teclas abaixo:*/n
+W - Vai para o Norte/n
+A - Vai para o Oeste /n
 S - Vai para o Sul 
 D - Vai para o Leste 
 
