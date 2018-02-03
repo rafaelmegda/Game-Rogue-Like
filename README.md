@@ -3,5 +3,10 @@ O Projeto deste Game RogueGamesEZPZ foi desenvolvido na Linguagem C como trabalh
 
 Esta é uma versão inicial e pretendemos dar continuidade no projeto e lançar novas versões com o intuito de formentar o crescimento da programação entre os jovens.
 
-AUTORIA DE: Rafael Megda, Pedro Ramos e Marcelo Ivanofre
+AUTORIA DE: 
+Rafael Megda
+Pedro Ramos
+Marcelo Ivanofre
 
+LICENÇA:
+O código a seguir foi desenvolvido com propósitos educacionais e sua utilização é aberta a qualquer um que o queira utilizar, com permissões de cópia, criação, distribuição e remoção de partes ou totalidade dele, desde que se deem os devidos créditos aos autores.
